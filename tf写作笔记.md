@@ -1,4 +1,6 @@
-## Cheese Trip
+# 独立写作
+
+## 确定分论点：Cheese Trip
 
 |    convenience    |   communication    |
 | :---------------: | :----------------: |
