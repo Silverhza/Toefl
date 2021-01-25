@@ -96,8 +96,6 @@ To explain...
 
 
 
-
-
 broaden horizon
 
 open one's eyes
