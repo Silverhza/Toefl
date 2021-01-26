@@ -26,6 +26,26 @@
 
 
 
+#### 开头段
+
+三个部分三句话
+
+1.第一句 **背景介绍**
+
+2.第二句 **引出题目(别人的观点)**
+
+Many people, if not most, are strong believers in the statement that... 
+
+3.第三句 **表明观点**
+
+from my stand point/ point of view
+
+as far as I am concerned 
+
+...
+
+后接 with the following reasons
+
 #### Body1.2结构（抽象到具体）:
 
 ![截屏2021-01-23 下午4.11.37](./pic/4.png)
@@ -86,13 +106,33 @@ Specifically...
 
 To explain...
 
-![截屏2021-01-23 下午5.41.18](./pic/10.png)
-
 ##### 3.论据（3-5句）
 
-举例子
+![截屏2021-01-23 下午5.41.18](./pic/10.png)
 
 ##### 4.总结（1句）
+
+见上图
+
+
+
+#### 结尾段
+
+in conclusion 
+
+to sum up
+
+**三部分**
+
+1.明确的观点（换种表达）
+
+2.支撑观点的分论点（body的中心论点句）
+
+3.让步部分
+
+**我的观点 with respect to 分论点**
+
+
 
 
 
@@ -101,3 +141,9 @@ broaden horizon
 open one's eyes
 
 expend one's knowledge
+
+get rid of
+
+never fail to
+
+play a pivotal role in ...
