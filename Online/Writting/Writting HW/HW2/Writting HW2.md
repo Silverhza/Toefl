@@ -14,7 +14,7 @@ In conclusion, avoiding buying digital products right away is beneficial with re
 
 # Q2:
 
-In the past two decades, more and more children have the opportunity to get education. Many people, if not most, are strong believers in the statement that it is difficult for a teacher to be both effective in teaching and liked by student. As far as I am concerned, it is not that hard with the following reasons.
+In the past two decades, more and more children have the opportunity to be educated. Many people, if not most, are strong believers in the statement that it is difficult for a teacher to be both effective in teaching and liked by student. As far as I am concerned, it is not that hard with the following reasons.
 
 We might easily find that a teacher with a effective teaching method can help students learn knowledge fast, in other words, they can save children's time. That is to say, children could have more spare time to do what they really want to do. Undoubtedly, this type of teachers will be welcomed by children. For example, when I was in middle school, our math teacher always uses the class time efficiently, so he never procrastinates. Students can use the time after class to take a good rest or do what they want. Thus, he is popular in our class. Therefore, being both effective in teaching and liked by student is not that hard.
 
