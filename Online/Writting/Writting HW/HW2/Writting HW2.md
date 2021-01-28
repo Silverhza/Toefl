@@ -2,6 +2,10 @@
 
 # Q1:
 
+# ![1](./1.jpeg)
+
+------
+
 Nowadays, the popularity of digital devices is getting higher and higher and the updates of the products are quite fast comparing to the past few years. Many people, if not most, are strong believers in the statement that when new electronic products released, we should buy them right away. From my standpoint, I prefer to wait with the following reasons.
 
 There is much evidence that waiting till others have adopted these devices can offer you a better experience. To be more specific, when a product is first released, it has not been tested enough. Thus, it is always along with many bugs. The engineers sometimes need a couple of months to get everything fixed. We might take iPhone as an example, when iPhone 8 was released, the buyer found that the signal of the new product is awful, and this problem took Apple's engineers two months to fix. Accordingly, we can get better experience if we buy the product later.
@@ -13,6 +17,10 @@ In conclusion, avoiding buying digital products right away is beneficial with re
 
 
 # Q2:
+
+![2](./2.jpeg)
+
+------
 
 In the past two decades, more and more children have the opportunity to be educated. Many people, if not most, are strong believers in the statement that it is difficult for a teacher to be both effective in teaching and liked by student. As far as I am concerned, it is not that hard with the following reasons.
 
