@@ -116,6 +116,54 @@ To explain...
 
 
 
+#### 让步转折段结构（可选）：
+
+
+
+##### 1.让步：我方的让步和对方的让步
+
+我方的让步：写一个我方的缺点/问题
+
+我方的让步：写一个我方的缺点/问题
+
+Ex:
+
+**1）Admittedly, some people may argue that 一个我方的缺点/一个对方的优点**
+
+**2）论证展开**
+
+与第一段第二段论证展开写法一致
+
+1 我方缺点/对方的优点的合理性/重要性（根据题目具体需求选择写或不写）
+
+2 解释说明“我方为什么我这个缺点？”/“对方为什么有这个优点？” （必写）
+
+
+
+##### 2.转折
+
+目的：对让步部分进行强有力的削弱。
+
+**1）虽然我方有一个缺点/问题，但可以得到改正/解决，或者已经改正/解决**
+
+Ex: However, they ignore the fact that there are a lot of approaches to solve this problem/the problem has been solved with the following ways. First, 第一个sol. Second, 第二个sol.
+
+**2）虽然反方有一个优点1，但这个优点1我方也有。不仅如此，我方在没有反方缺点的前提下还有优点2+优点3...**
+
+Ex: However, they ignore the fact thar 我方 also have/can + 反方优点1 without adverse effect/impact on... In addition/Additionally, 我方优点2... 我方优点3.
+
+**3）虽然反方有优点2，但是反方也有缺点1+2，缺点>优点，所以不能选。**
+
+Ex: However, I have to point out that 反方的 disadvantages outweigh its advantage. On the one hand, 第一个缺点.On the other hand, 第二个缺点。
+
+
+
+##### 3.总结(重申自己的观点)
+
+Therefore/Thus/As a result/Consequently... ，我方的观点成立。
+
+
+
 #### 结尾段
 
 in conclusion 
@@ -147,3 +195,4 @@ get rid of
 never fail to
 
 play a pivotal role in ...
+

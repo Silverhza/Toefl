@@ -8,3 +8,9 @@ There are good reasons to suggest that reading news with different standpoint is
 
 In conclusion, reading news with different  point of view is better with respect to  expansion of knowledge horizon and the more chances to make friends.
 
+
+
+让步转折：
+
+Admittedly, some people may argue that teacher can not be both effective in teaching and liked by student. Since most students feel disgusted with excessive learning pressure, a teacher assigns too much homework  will definitely not be welcomed by students. However, they ignore the fact that there are a lot of approaches to solve this problem. First, telling students that teacher assigning so many homework is a manifestation of responsibility so that students can understand the teacher’s behavior. Second, despite of the great study pressure, teachers can reward outstanding students to encourage them so that they will not feel ddistressed to finish their academic burden. Therefore, being both effective and welcomed is not hard for teachers.
+
