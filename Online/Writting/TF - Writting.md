@@ -38,7 +38,7 @@ Many people, if not most, are strong believers in the statement that...
 
 3.第三句 **表明观点**
 
-from my stand point/ point of view
+from my standpoint/ point of view
 
 as far as I am concerned 
 
@@ -70,6 +70,8 @@ as far as I am concerned
 
 **句型：**
 
+First and foremost... ++下列
+
 It becomes rather apparent that...
 
 We might easily find that...
@@ -98,6 +100,8 @@ It is significantly important to point out that...
 
 ![截屏2021-01-23 下午4.41.45](./pic/9.png)
 
+However, ++下列
+
 That is to say...
 
 To be more specific...
@@ -118,7 +122,7 @@ To explain...
 
 #### 让步转折段结构（可选）：
 
-
+**PS：比较类型的题型一定要写我方比起对方的缺点**
 
 ##### 1.让步：我方的让步和对方的让步
 
@@ -147,6 +151,8 @@ Ex:
 **1）虽然我方有一个缺点/问题，但可以得到改正/解决，或者已经改正/解决**
 
 Ex: However, they ignore the fact that there are a lot of approaches to solve this problem/the problem has been solved with the following ways. First, 第一个sol. Second, 第二个sol.
+
+PS:However, they ignore the fact that ...
 
 **2）虽然反方有一个优点1，但这个优点1我方也有。不仅如此，我方在没有反方缺点的前提下还有优点2+优点3...**
 
@@ -178,9 +184,27 @@ to sum up
 
 3.让步部分
 
-**我的观点 with respect to 分论点**
+**我的观点 with respect to 分论点 though 让步**
 
 
+
+#### 补充题型：题目有比较的类型(之前的类型是二选一)
+
+论点要有比较级体现
+
+论述展开用到对比论证（对比与反证）
+
+##### 结构：
+
+**1.提出论点（要有比较级体现）**
+
+**2.论证展开：解释正方（为什么这件事情能给正方带来好处1）+ 解释反方（为什么反方没有这个好处）**
+
+**3.例子：正方+反方例子**
+
+**4.总结：...**
+
+常用表示比较的词组：however, in comparison, on the contrary, by contrast, in contrast, contradictorily
 
 
 
