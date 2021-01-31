@@ -39,3 +39,71 @@ firstly/first of all/to begin with/one important reason is...
 That's the reason why I agree/disagree with this statement
 
 That's the reason why I prefer...
+
+
+
+**时间把控：**
+
+7-8‘：开头
+
+15-16*2：两个理由
+
+4-5：结尾
+
+
+
+## 综合口语：
+
+### 1.记笔记技巧
+
+**针对阅读部分：一个身子两条腿**
+
+一个身子：学校要做的事情或者有人建议要做的事情（85%-90%情况下，从文章标题就可找到）
+
+两条腿：两个层面（原因：为什么要做这件事？影响：做这件事可能带来的直接影响/做这件事可能会有什么意外的收获）
+
+**针对听力部分：两个身子两条腿**
+
+两个身子（核心）：男/女 对/错
+
+两条腿：针对于阅读中的两个层面进行一一对应（支持：补充说明/反对：怼）
+
+### 2.回答技巧：
+
+#### 针对于文字部分:先一句话概括要做的事情（或建议要做的事情）
+
+In this announcement, the university decides to ...
+
+In this letter, a person suggested that the university should ...
+
+针对于对话同意阅读情况下 ：加上后面文章中提及的层面
+
+E.g because the university wants to commuter students could enjoy the same advantage with the dorm students and there will be a board to share some important information 
+
+针对于对话反对阅读情况下：后面什么都别加
+
+（目的：针对同意情况下，起到锦上添花作用；而对于反对情况下，起到对应对比作用）
+
+#### 针对于听力部分
+
+(However,) In the conversation, the man/woman agrees/disagrees with this announcement/suggestion letter with couple of reasons. 
+
+ (Support/against/holds postive/negative attitude to)
+
+**1）第一点：First of all, ...(针对于同意情况，直接就说听力中细节内容)**
+
+In the passage, the university announced/ the person suggested that ... while the man/woman believed that ...（针对于反对情况，做好对比）
+
+**2）第二点：Meanwhile,...（操作方式同上）**
+
+That's the reason why the man/woman agrees/disagrees with this announcement/suggestion letter.
+
+
+
+
+
+lounge--休息室
+
+commuter--通勤族
+
+commuter students--走读生
