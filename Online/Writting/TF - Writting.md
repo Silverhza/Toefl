@@ -208,6 +208,38 @@ to sum up
 
 
 
+#### 三选一题型：
+
+与之前的区别：
+
+开头段：背景+引出题目（对方观点，即两个没选择的选项+because对方选择这个观点的理由）...
+
+body第二段:要写没选到的两个的不足之处
+
+第二段结构：
+
+In addition, the other two methods are less ideal to ...(help students not to cheat in assignments). For one thing , ...（第一个没选到的选项的解释/例子+Therefore, ） For another, ...（第二个没选到的选项的解释/例子+Therefore, ）. As a consequence, there are clearly limitations concerning the other two choices of... (stopping students from cheating in homework).
+
+
+
+#### 极端词题型：
+
+一定不是肯定
+
+...
+
+As far as I am concerned, visiting museums is not the best way to get to achieve a good understanding of a country and there are more efficient approaches.
+
+Body:
+
+第一段是解释其不好之处
+
+第二段写别好的方法1
+
+第三段写别的好的方法2
+
+
+
 broaden horizon
 
 open one's eyes
@@ -220,3 +252,14 @@ never fail to
 
 play a pivotal role in ...
 
+In this day and age, an increasing proportion of people are attaching greater importance to the topic of the most efficient way to help students avoid cheating in their assignments.
+
+In addition, the other two methods are less ideal to ...(help students not to cheat in assignments).
+
+For one thing ... For another
+
+As a consequence, there are clearly limitations concerning the other two choices of... (stopping students from cheating in homework).
+
+
+
+ 

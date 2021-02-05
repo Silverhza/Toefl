@@ -29,3 +29,10 @@ Firstly, there are good reasons to suggest that seeking family for help or relyi
 Admittedly, some people may argue that ourselves or family are not professional in every field. Compared to the government, we do not have experts or specialized departments, so we can't handle everything. However, they ignore the fact that there are a lot of approaches to solve this problem. First, when encountering new problems we can search the internet for professional solutions. Second, if we are not familiar with one field, we can try to consult experts in our family or around us for help. Consequently,  I am more willing to rely on my own and family than the government.
 
 In conclusion, seeking family for help or relying on our own is better than counting on the government with respect to efficiency and ... , though the government is more professional in some field.
+
+
+
+
+
+In addition, the other two methods are less ideal to our health to learn new things. For one thing, cooking food which we seldom ate may lead to food allergy. For example, I never tried to eat crab before, and one day some of my friend told me to try. It truly tasted good, but I eat too much. After that, I stayed on bed for two days because of crab allergy. Therefore, cooking food we do not normally eat may make the body uncomfortable. For another, it will put weight if we choose crafts like knitting. Because when we are crafting something, we sometimes sit on the chair for whole day. Therefore, it can easily lead to obesity. I still remember that my grandmother used to knit a lot. She liked knitting very much, but she soon found out that her weight is increasing rapidly, because she always busied in knitting. Thus, crafts like knitting will put our weight. As a consequence, there are clearly limitations concerning the other two choices of learning new things.
+
