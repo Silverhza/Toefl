@@ -8,7 +8,7 @@
 
 **结构**：对/错/1/2---理由
 
-## 如何回答好独立口语题：
+## 独立口语题：
 
 ### 1.开门见山，直述答案
 
@@ -122,9 +122,9 @@ commuter students--走读生
 
 答题结构：
 
-ln this lecture, the professor used an example/experiment/experience to analysis ... + 实验
+ln this lecture, the professor used an example/experiment/experience to analysis ... + 实验/...
 
-结果
+According to the passage, 加定义+（好处）结果
 
 which could be proved by the example/experience/experiment in the lecture
 

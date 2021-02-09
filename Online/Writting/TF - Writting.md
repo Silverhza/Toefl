@@ -72,6 +72,8 @@ as far as I am concerned
 
 First and foremost... ++下列
 
+Secondly, ...
+
 It becomes rather apparent that...
 
 We might easily find that...
@@ -237,6 +239,66 @@ Body:
 第二段写别好的方法1
 
 第三段写别的好的方法2
+
+To sum up, we can safely come to the conclusion that visiting museums is not the best choice to get to know about a country and there are additional ways for us to do so.
+
+PS：
+
+极端词题型写法可以参照
+
+body1:让步段 说它好 解释 例子
+
+body2:转折段 但是还有更好的方法 解释一下为什么好 例子
+
+body3:递进段  what' more 还有另外的方法 解释 例子
+
+
+
+## 综合写作
+
+reading部分
+
+笔记
+
+reading第一段：记录观点
+
+每一段记录分论点：2、3、4段第一句话或者第二句话，之后再看每一段的细节
+
+listening记录观点
+
+body先记分论点，再记细节
+
+
+
+结构：
+
+开头段：
+
+In the lecture, the professor is skeptical about the idea of the reading passage that + reading部分的观点 The professor, however, argues that + listening部分的观点
+
+body段
+
+body1
+
+First in the reading passage, it is pointed out that  + reading部分的第一个分论点，不加细节 On the contrary, the professor maintains that + listening部分的第一个分论点，加完整细节 （相互反驳） 加一个总结 （therefore..)
+
+body2
+
+Second, the professor then challenges the reading’s idea that  + reading部分的第二个分论点，不加细节 she suggest that + listening部分的第二个分论点，加完整细节 加一个总结 （therefore..)
+
+body3
+
+Finally, the professor addresses +listening的第三个分论点和细节 + 总结（论点成立）However, according to the reading passage + reading的第三个分论点 不要细节
+
+阅读不要抄原文，听力尽量原文 语法不要错
+
+听力和阅读是相互反驳的关系
+
+1、完全反驳，直接写即可
+
+2、部分反驳，要有让步转折（部分肯定）although/though/while/it is true that
+
+
 
 
 

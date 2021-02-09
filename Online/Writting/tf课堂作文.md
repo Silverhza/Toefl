@@ -36,3 +36,11 @@ In conclusion, seeking family for help or relying on our own is better than coun
 
 In addition, the other two methods are less ideal to our health to learn new things. For one thing, cooking food which we seldom ate may lead to food allergy. For example, I never tried to eat crab before, and one day some of my friend told me to try. It truly tasted good, but I eat too much. After that, I stayed on bed for two days because of crab allergy. Therefore, cooking food we do not normally eat may make the body uncomfortable. For another, it will put weight if we choose crafts like knitting. Because when we are crafting something, we sometimes sit on the chair for whole day. Therefore, it can easily lead to obesity. I still remember that my grandmother used to knit a lot. She liked knitting very much, but she soon found out that her weight is increasing rapidly, because she always busied in knitting. Thus, crafts like knitting will put our weight. As a consequence, there are clearly limitations concerning the other two choices of learning new things.
 
+
+
+综合写作：
+
+In the lecture, the professor is skeptical about the idea of the reading passage that setting up a  permanent station on Venus is impossible. The professor, however, argues that  although setting up a permanent station on Venus may not be without challenges, it is certainly possible.
+
+First in the reading passage, it is pointed out that with a high pressure, everything made by humans can be destroyed easily. On the contrary, the professor maintains that though the pressure on the surface is pretty high, by setting up the basement high up in the atmosphere, the pressure can be much lower than the surface. The place where is 50 kilometers up in the atmosphere, the pressure can even be equal to the normal pressure we're used to here on Earth. Therefore, there would be no danger of the station getting crushed.
+
