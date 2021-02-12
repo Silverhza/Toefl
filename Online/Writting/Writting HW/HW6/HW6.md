@@ -1,0 +1,15 @@
+# 独立写作：
+
+While deciding where to travel, some prefer to check information online, while others prefer to ask people who have been there. Which do you think is better?
+
+------
+
+Nowadays, more and more people choose to travel during holidays. Many people, if not most, are strong believers in the statement that when deciding where to travel, people should ask people who have been there. As far as I am concerned, checking information online is a better choice with the following reasons. 
+
+First and foremost, there is no debate that checking information online could save more time. To be more specific, compared to ask people face to face, with the Internet, we can check the information of our destination at anywhere and anytime. For example, when our class made the high school graduation travel plan, at first, we consulted many people, it took us a great amount time to get the information. This made our travel process undecided for a long time. However, after using an APP called Ctrip, we found out that every information is provided on this APP. Finally, we easily completed the travel plan and enjoyed it a lot. Therefore, checking information through Internet could save our precious time.
+
+Secondly, it becomes rather apparent that checking online is able to provide more information. This is to say, searching information through the Internet can provide more than asking people around you. Your friends cannot have been to everywhere, but the Internet can show you nearly any places around the world. We might take my friend Jonny as an example. He wanted to make a summer trip plan. He asked the opinions of most people around him, but in fact, many of them had not even been abroad. He was very distressed, because the people around him could hardly provide any destination that would fascinate him. When he came to me for help, I told him that he might look for relevant information online. He was surprised to find that there are many travel diaries and travel guides published by people on the Internet. Compared with people who can only provide a small amount of information around him, the content on the Internet makes it very easy for him to make plans. Accordingly, searching the Internet can offer more information.
+
+Admittedly, some people may argue that some information published on the Internet can be may be fabricated. However, they ignore the fact that there are a lot of approaches to solve this problem. First, by obtaining information from some regular websites, the credibility of the information can be ensured. Second, it is a wise idea to collect as much relevant information as possible to better ensure that this information is true. Therefore, I prefer searching the traveling information through the Internet than people who have been there.
+
+In conclusion, I prefer acquiring the traveling information through the Internet than people who have visited there with respect to saving time and providing more information though the Internet contains fabricated information.
