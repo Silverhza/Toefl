@@ -96,6 +96,8 @@ In the passage, the university announced/ the person suggested that ... while th
 
 **2）第二点：Meanwhile,...（操作方式同上）**
 
+。。。
+
 That's the reason why the man/woman agrees/disagrees with this announcement/suggestion letter.
 
 
@@ -127,6 +129,8 @@ ln this lecture, the professor used an example/experiment/experience to analysis
 According to the passage, 加定义+（好处）结果
 
 which could be proved by the example/experience/experiment in the lecture
+
+------
 
 对于经历题：注意时间节点
 

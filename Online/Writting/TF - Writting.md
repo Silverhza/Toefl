@@ -158,7 +158,7 @@ PS:However, they ignore the fact that ...
 
 **2）虽然反方有一个优点1，但这个优点1我方也有。不仅如此，我方在没有反方缺点的前提下还有优点2+优点3...**
 
-Ex: However, they ignore the fact thar 我方 also have/can + 反方优点1 without adverse effect/impact on... In addition/Additionally, 我方优点2... 我方优点3.
+Ex: However, they ignore the fact that 我方 also have/can + 反方优点1 without adverse effect/impact on... In addition/Additionally, 我方优点2... 我方优点3.
 
 **3）虽然反方有优点2，但是反方也有缺点1+2，缺点>优点，所以不能选。**
 
