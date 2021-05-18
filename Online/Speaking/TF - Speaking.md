@@ -86,7 +86,7 @@ E.g because the university wants to commuter students could enjoy the same advan
 
 #### 针对于听力部分
 
-(However,) In the conversation, the man/woman agrees/disagrees with this announcement/suggestion letter with couple of reasons. 
+(However,) In the conversation, the man/woman agrees/disagrees with this proposal/announcement/suggestion letter with couple of reasons. 
 
  (Support/against/holds postive/negative attitude to)
 
@@ -124,7 +124,9 @@ commuter students--走读生
 
 答题结构：
 
-ln this lecture, the professor used an example/experiment/experience to analysis ... + 实验/...
+ln this lecture, the professor used an example/experiment/experience to analysis ... + 
+
+实验/...
 
 According to the passage, 加定义+（好处）结果
 
@@ -135,3 +137,4 @@ which could be proved by the example/experience/experiment in the lecture
 对于经历题：注意时间节点
 
 Chaining behavior is a technique used by parents to teach children a sequence of complex behaviors. For example, professor taught his daughter how to wash her hands. He divided this complex behavior into 5 steps, and taught his daughter one step at a time. He first showed his daughter step 1 and practiced it with her for a couple of days. When she has mastered this action, he showed her step 2 and let her practice both steps for another few days until she can do both by herself. Then he added the third step after, and also let her practice for a while until she can do them all. For the last two steps, he did the same thing as the previous three steps. Finally she could finish the hand washing all by herself.
+

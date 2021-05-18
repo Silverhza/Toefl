@@ -44,3 +44,46 @@ In the lecture, the professor is skeptical about the idea of the reading passage
 
 First in the reading passage, it is pointed out that with a high pressure, everything made by humans can be destroyed easily. On the contrary, the professor maintains that though the pressure on the surface is pretty high, by setting up the basement high up in the atmosphere, the pressure can be much lower than the surface. The place where is 50 kilometers up in the atmosphere, the pressure can even be equal to the normal pressure we're used to here on Earth. Therefore, there would be no danger of the station getting crushed.
 
+
+
+
+
+2019/02/24
+
+Nowadays, an increasingly large number of  young people are able to go to college and get higher education. Many people, if not most, are strong believers in the statement that colleges should not require freshman to take a class on how to study in college because they think it is useless. However, from my standpoint, it is essential to take a class on how to study in college with the following reasons.
+
+
+
+There is no debate that delivering a class to the freshman on how to study in college is able to improve their study efficiency. That is to say, with a proper learning method, the students can learn new things quicker and faster. Take myself an an example. I still remember when I was new at college, the study pressue was heavy and most of our students in school felt stressful. At that time, the school held several study lectures for us. At the study meeting, the school invited many teachers and outstanding student representatives to share learning experiences and methods, which benefited us a lot. After mastering the correct learning methods, we could obviously feel that the learning pressure is greatly reduced, and more and more people were gradually adapting to the new learning life. Therefore, offering a study method class to the freshman in college is helpful to improve their study efficiency.
+
+Tips: feel pressure(why?)
+
+There are good reasons to suggesting that offering a study method class to the freshman in college allows them to make more friends. To be more specific, during the class, they share the new ideas with each other and have more opportunity to meet with new people. My friend Jacky is a good case in point. In fact, the first time we met was at a study meeting. In order to learn and progress together, we set up a study group. In the group, we exchanged opinions and discussed academic issues together. We often completed academic projects together. In this progress, we got to know each other better and better. Since then, he and I have become good friends. Accordingly, offering a study method class is beneficial to make more friends.
+
+
+
+
+
+
+
+In the lecture, the professor is skeptical about the idea in the reading passage that the yellow cedar decline may be caused by insect parasites, brown bears and changes of climate. The professor, however, argues that they are not the fundamental cause responsible for the decline.
+
+
+
+First in the reading passage, it is pointed out that the cedar bark beetle is to be blamed. One the contrary, the professor maintains that the cedar bark beetles is not the key point. According to the research, the yellow cedars are more resistant to insect infestation than other tree species. For example, the bark and leaves of yellow cadar are saturated with powerful chemicals that are poisonous to insects.To be more specific, healthy cedars are unlikely to suffer from insect damage. The trees that were already damaged or sick and would have probably died  under the attack of beetles. Therefore the decline of the yellow cedars is not attributed to the beetles.
+
+Second, the professor then challenges the reading’s idea that brown bears should be responsible for the decline. She suggests that although bears damage some trees, they’re not the cause of the overall population decline. She uses an example to fight back. In the northwestern coast of North America, the yellow cedar populations both on the mainland and on islands have been declining. However, although there are no bears on the islands, the island cedars are still in decline. Thus, the bears cannot be responsible.
+
+...
+
+
+
+
+
+In the lecture, the professor is skeptical about the idea of the reading passage that ethanol is not a good replacement for gasoline. The professor, however, argues that ethanol is actually a good alternative.
+
+First in the reading passage, it is pointed out that using ethanol cannot solve problem of global warming. On the contrary, the professor maintains that the increasing use of ethanol fuel will not add to global warming. Although it truly releases carbon dioxide into the atmosphere, the plant grown absorbs carbon dioxide from the air as part of its nutrition. So, to some extent, growing plants for ethanol production actually removes carbon dioxide from the atmosphere. Therefore, adopting the idea that choosing ethanol as a substitute is helpful to reducing the global warming.
+
+Second, the professor then challenges the reading’s idea that the production of significant amounts of ethanol would dramatically reduce the number of plants available for uses other than fuel. He suggests that large-scale production of ethanol doesn't have to reduce the sources of food for animals. To be more specific, by using cellulose, which is the main component of plant cell walls and normally not eaten by animals, to produce ethanol, can make sure the amount of food available for animal will not be reduced. Thus, production of ethanol would not influence the food supply for animals.
+
+Finally, the professor addresses that in the future, ethanol will be able to compete with gasoline in terms of price. Once enough people start buying ethanol, its producers will increase their production of ethanol which will lead to a drop in its price. A case in point is that studies already show that if ethanol production could be three times greater than it is now, the cost of producing a unit of ethanol would drop by forty percent. Accordingly, the price will not be a weakness of ethanol in the future. However, according to the reading passage, ethanol fuel will never be able to compete with gasoline on price.

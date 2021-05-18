@@ -1,3 +1,5 @@
+
+
 # 课堂笔记
 
 ## 独立写作
@@ -34,7 +36,7 @@
 
 2.第二句 **引出题目(别人的观点)**
 
-Many people, if not most, are strong believers in the statement that... 
+Many people, if not most, are strong believers in the statement that... Because...
 
 3.第三句 **表明观点**
 
@@ -78,7 +80,7 @@ It becomes rather apparent that...
 
 We might easily find that...
 
-There are good reasons to suggest that...
+There are good reasons suggesting that...
 
 There is much evidence that...
 
@@ -284,7 +286,7 @@ First in the reading passage, it is pointed out that  + reading部分的第一�
 
 body2
 
-Second, the professor then challenges the reading’s idea that  + reading部分的第二个分论点，不加细节 she suggest that + listening部分的第二个分论点，加完整细节 加一个总结 （therefore..)
+Second, the professor then challenges the reading’s idea that  + reading部分的第二个分论点，不加细节 she suggests that + listening部分的第二个分论点，加完整细节 加一个总结 （therefore..)
 
 body3
 
@@ -324,4 +326,22 @@ As a consequence, there are clearly limitations concerning the other two choices
 
 
 
- 
+
+
+一类题：
+
+We can learn a lot about a person's personality from the books he/she reads and the movies he/she watches?
+
+We can learn a lot about a person's personality from the friend he make...
+
+We can learn a lot about a person's personality from the clothes he wear...
+
+这一类题的万能解法
+
+观点： 同意
+
+喜欢历史书的人是严谨的，因为历史书里有很多事实，需要人用客观态度分析，举个例子如此一般罗列一下（每一本书都是一个body）
+
+喜欢爱情小说的人是浪漫的，浪漫题材的书对这些人很有吸引力...
+
+让步转折：有的人认为这不能反映出一个人的性格/...，因为有人看电影随大流等等，不能代表他的性格。但是即使如此随大流我们还是可以从中发现他的性格，比如说如果他是个随大流的人，那么他的性格就是随大流没有主见的/追赶潮流的。
