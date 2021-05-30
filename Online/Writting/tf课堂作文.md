@@ -87,3 +87,31 @@ First in the reading passage, it is pointed out that using ethanol cannot solve 
 Second, the professor then challenges the reading’s idea that the production of significant amounts of ethanol would dramatically reduce the number of plants available for uses other than fuel. He suggests that large-scale production of ethanol doesn't have to reduce the sources of food for animals. To be more specific, by using cellulose, which is the main component of plant cell walls and normally not eaten by animals, to produce ethanol, can make sure the amount of food available for animal will not be reduced. Thus, production of ethanol would not influence the food supply for animals.
 
 Finally, the professor addresses that in the future, ethanol will be able to compete with gasoline in terms of price. Once enough people start buying ethanol, its producers will increase their production of ethanol which will lead to a drop in its price. A case in point is that studies already show that if ethanol production could be three times greater than it is now, the cost of producing a unit of ethanol would drop by forty percent. Accordingly, the price will not be a weakness of ethanol in the future. However, according to the reading passage, ethanol fuel will never be able to compete with gasoline on price.
+
+
+
+
+
+
+
+Many people, if not most, are strong believers in the statement that it is more significant to have specific knowledge in a field than having a good adaptation to new situations because they think specializing in one direction is easier to succeed. However, from my standpoint, I prefer that holding an excellent adaptability is much more essential with the following reasons.
+
+First and foremost, there are good reasons suggesting that having the ability to adapt to changing situations may help us make more friends. To be more specific, compared to having specific knowledge in a field, we have more chance to meet more friends with a good adaptability. However, if we just always stay in our own field, we can only socialize with very limited amount of people. Take my professor Jacky as an example. His scientific research path had been constantly changing directions, because he wanted to develop in an all-round way and leave his name in many fields. Because of this, new scholars were constantly appearing around him, and he worked with them to achieve a lot of great progress. At the same time, the relationship between them was getting better and better. His social circle expanded rapidly. However, this was not the case with Robben, who was one of his classmates. He had always stayed in a specific field and never interacted with outsiders. Over time, his social circle had become very narrow. Thus, with a good adaptability may offer us with more opportunity to make friends.
+
+
+
+Your university is now planning to add some new facilities to your dormitories. Which of the following three choices do you think they should add?
+
+Gym
+
+Study room
+
+Play space(like watching a movie)
+
+Many people, if not most, are strong believers in the statement that the university should add some study room and play space to dormitories because they think the study room offer student a convenient place for studying and the play space provides them with a place to release their pressure. However, from my point of view, I prefer to set a gym in the dormitories with the following reasons.
+
+First and foremost, there are good reasons suggesting that gym is able to help student keep fit. To be more specific, with a gym, students can take sports whenever they want which allows them to be healthy. For example, my middle school designed a gym in the dormitories. Every day after school, all of us liked to release our energy in it. During fitness, we not only get physical and mental relaxation, but also strengthen our body. After setting up the gym, the probability of students getting sick is greatly reduced. Therefore, gym is necessary for dormitories since it could keep student healthy.
+
+In addition, the other two choice are less ideal. For one thing, setting a study room in dormitories is superfluous, since if students want to have a better place to study, they could choose to go to library. In the library, no one will annoy them and have plenty of books for them to reference. Moreover, students are tired enough after a busy day. The dormitories are designed for them to take rest. Therefore, it is unnecessary to set a study room in dormitories. For another, build a play space in dormitories may affect other students' rest. Take watching movies in dormitories as an example. If we watch films in the dormitory building, it undoubtedly will generate a lot of noise. For students want to have a sleep, it will be a catastrophe. Thus, allowing a play space in dormitories may have an influence on other students' rest. As a consequence, there are clearly limitations concerning the other two choices.
+
+ 
